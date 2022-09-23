@@ -1,1 +1,1 @@
-Revision 1 of BSPD circuit shematic and layout.
+Revision 1 of BSPD circuit schematic and layout.
